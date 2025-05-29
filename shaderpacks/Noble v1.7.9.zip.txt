@@ -1,0 +1,5 @@
+#Thu May 15 01:53:43 CEST 2025
+shadowDistance=512
+SHADOW_SAMPLES=16
+shadowMapResolution=4096
+SHADOWS=2

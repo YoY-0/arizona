@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = true
+  world = srv822712.hstgr.cloud:25565
+}
+

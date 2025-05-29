@@ -1,0 +1,29 @@
+{
+  "bookGuiScale": 3,
+  "clickedVisualize": false,
+  "bookData": {
+    "patchouli:roots_take_hold": {
+      "viewedEntries": [
+        "patchouli:journey/journey"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "patchouli:homestead": {
+      "viewedEntries": [
+        "patchouli:intro/intro",
+        "patchouli:blueprints_and_builds/blueprints_and_builds",
+        "patchouli:lore/lore"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "patchouli:welcome": {
+      "viewedEntries": [
+        "patchouli:welcome/welcome"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

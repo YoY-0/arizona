@@ -1,0 +1,30 @@
+{
+  "bookmarks": {},
+  "opened_books": {
+    "10120ae9-2953-433d-93ea-872542330d34": [
+      "things:almanac"
+    ],
+    "119e98a6-4018-4951-8f11-c6593dc6b343": [
+      "things:almanac"
+    ]
+  },
+  "viewed_entries": {
+    "10120ae9-2953-433d-93ea-872542330d34": {
+      "things:almanac": [
+        "things:items/apples",
+        "things:diamond_pressure_plate",
+        "things:items/item_magnet",
+        "things:items/hardening_catalyst",
+        "things:trinkets/agglomeration"
+      ]
+    },
+    "119e98a6-4018-4951-8f11-c6593dc6b343": {
+      "things:almanac": [
+        "things:items/container_key",
+        "things:glowstone_fixtures",
+        "things:items/infernal_scepter",
+        "things:items/hardening_catalyst"
+      ]
+    }
+  }
+}

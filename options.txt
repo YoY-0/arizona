@@ -125,6 +125,7 @@ key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.ftbquests.quests:key.keyboard.unknown
 key_key.ftbteams.open_gui:key.keyboard.unknown
+key_key.createrailwaysnavigator.route_overlay_options:key.keyboard.r
 key_key.bridgingmod.toggle_bridging:key.keyboard.comma
 key_key.camerautils.zoom:key.keyboard.z
 key_key.camerautils.third_person_cam_1:key.keyboard.up
@@ -191,11 +192,11 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.tab
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x
+key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_key.things.place_item:key.keyboard.j
 key_key.things.openenderchest:key.keyboard.g
 key_key.things.toggle_socks_jump_boost:key.keyboard.caps.lock

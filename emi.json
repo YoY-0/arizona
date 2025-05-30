@@ -32,6 +32,7 @@
     }
   ],
   "lookup_history": [
+    "item:minecraft:firework_rocket{Fireworks:{Flight:3b}}",
     "item:things:gleaming_compound",
     "item:things:hades_crystal",
     "item:minecraft:barrel",
@@ -353,11 +354,11 @@
     "item:create_dd:bronze_ingot",
     "item:create_dd:bronze_block",
     [
-      "item:create:polished_cut_deepslate",
-      "item:create:small_deepslate_bricks",
-      "item:create:deepslate_pillar",
-      "item:create:cut_deepslate_bricks",
       "item:create:cut_deepslate",
+      "item:create:deepslate_pillar",
+      "item:create:small_deepslate_bricks",
+      "item:create:polished_cut_deepslate",
+      "item:create:cut_deepslate_bricks",
       "item:create:layered_deepslate",
       "#item:c:stone"
     ],
@@ -385,17 +386,16 @@
     "item:wirelessredstone:redstone_transmitter",
     "item:wirelessredstone:redstone_receiver",
     "item:wirelessredstone:circuit",
-    "item:minecraft:firework_rocket{Fireworks:{Flight:1b}}",
     [
-      "item:farmersdelight:organic_compost",
-      "item:minecraft:podzol",
-      "item:farmersdelight:rich_soil_farmland",
-      "item:natures_spirit:shiitake_mushroom",
       "item:natures_delight:shiitake_mushroom_colony",
+      "item:minecraft:podzol",
+      "item:natures_spirit:shiitake_mushroom",
       "item:minecraft:mycelium",
       "item:farmersdelight:rich_soil",
-      "item:farmersdelight:red_mushroom_colony",
       "item:farmersdelight:brown_mushroom_colony",
+      "item:farmersdelight:organic_compost",
+      "item:farmersdelight:rich_soil_farmland",
+      "item:farmersdelight:red_mushroom_colony",
       "#item:forge:mushrooms"
     ],
     "item:farmersdelight:rich_soil",
@@ -996,6 +996,7 @@
     "item:sophisticatedbackpacks:copper_backpack"
   ],
   "craft_history": [
+    "minecraft:firework_rocket_simple",
     "constructionwand:wand_upgrade",
     "create:crafting/kinetics/chute",
     "toms_storage:trim",
@@ -1159,7 +1160,6 @@
     "wirelessredstone:redstone_transmitter",
     "wirelessredstone:redstone_receiver",
     "wirelessredstone:circuit",
-    "minecraft:firework_rocket_simple",
     "farmersdelight:straw",
     "toms_storage:crafting_terminal",
     "minecraft:crafting_table",
